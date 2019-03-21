@@ -1,0 +1,8 @@
+prefix=/home/rain/czy_ws/install
+
+Name: tf_demo
+Description: Description of tf_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rain/czy_ws/install/lib 
+Requires: 
